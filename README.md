@@ -14,3 +14,7 @@ leedcode刷题记录
 ## 字符串问题
 
 [1.leedcode647-回文子串](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/countSubstrings.md)
+
+## DFS
+[1.leedcode529-扫雷游戏](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/updateBoard.md)
+
