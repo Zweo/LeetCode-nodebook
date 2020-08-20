@@ -13,4 +13,4 @@ leedcode刷题记录
 
 ## 字符串问题
 
-[1.leedcode647-有序链表转平衡二叉树](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/countSubstrings.md)
+[1.leedcode647-回文子串](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/countSubstrings.md)
