@@ -10,6 +10,8 @@ leedcode刷题记录
 
 [2.leedcode109-有序链表转平衡二叉树](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/sortedListToBST.md)
 
+[3.leedcode111-二叉树最小深度](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/minDepth.md)
+
 
 ## 字符串问题
 
