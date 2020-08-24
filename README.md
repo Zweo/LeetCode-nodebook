@@ -17,6 +17,9 @@ leedcode刷题记录
 
 [1.leedcode647-回文子串](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/countSubstrings.md)
 
+[2.leedcode459-重复子串](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/repeatedSubstringPattern.md)
+
+
 ## DFS
 [1.leedcode529-扫雷游戏](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/updateBoard.md)
 
