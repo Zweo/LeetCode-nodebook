@@ -23,3 +23,9 @@ leedcode刷题记录
 ## DFS
 [1.leedcode529-扫雷游戏](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/updateBoard.md)
 
+## 回溯问题
+
+[1.leedcode17-电话号码的字母组合](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/letterCombinations.md)
+
+
+
