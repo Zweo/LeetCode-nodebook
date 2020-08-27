@@ -27,5 +27,9 @@ leedcode刷题记录
 
 [1.leedcode17-电话号码的字母组合](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/letterCombinations.md)
 
+[2.leedcode332-重新安排行程](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/findItinerary.md)
+
+
+
 
 
