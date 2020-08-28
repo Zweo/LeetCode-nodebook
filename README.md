@@ -19,6 +19,9 @@ leedcode刷题记录
 
 [2.leedcode459-重复子串](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/repeatedSubstringPattern.md)
 
+[3.leedcode657-机器人能否返回原点](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/judgeCircle.md)
+
+
 
 ## DFS
 [1.leedcode529-扫雷游戏](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/updateBoard.md)
