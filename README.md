@@ -35,6 +35,11 @@ leedcode刷题记录
 
 [2.leedcode332-重新安排行程](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/findItinerary.md)
 
+[3.leedcode51-N皇后](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/solveNQueens.md)
+
+
+
+
 
 
 
