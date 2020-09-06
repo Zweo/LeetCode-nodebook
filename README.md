@@ -12,6 +12,10 @@ leedcode刷题记录
 
 [3.leedcode111-二叉树最小深度](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/minDepth.md)
 
+[4.leedcode111-二叉树层次遍历](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/levelOrderBottom.md)
+
+
+
 
 ## 字符串问题
 
