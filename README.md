@@ -61,11 +61,26 @@ leedcode刷题记录
 
 ## 4.回溯问题
 
+#### 掌握回溯算法基本框架
+  ```python
+ def func(self, nums):
+     res = []
+     def backtrack(nums, track, k):
+         if 结束条件:
+            return
+         for i in range(k, len(nums)):
+            backtrack(nums, track + [nums[i]], i + 1)  # 进入下一层决策树
+        backtrack(nums, [], 0)
+     return res
+ ```
+
 [leedcode17-电话号码的字母组合](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/letterCombinations.md)
 
 [leedcode332-重新安排行程](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/findItinerary.md)
 
 [leedcode51-N皇后](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/solveNQueens.md)
+
+[leedcode39，40-组合总和](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/combinationSum.md)
 
 
 
