@@ -35,7 +35,7 @@ leedcode刷题记录
           cur = track.pop()
           if isinstance(cur, TreeNode):
               track.extend([cur.right, cur.val, cur.left])
-          else:
+          elif isinstance(cur, int):
               res.append(cur.val)
       return res
  ```
