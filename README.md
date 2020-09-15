@@ -26,6 +26,18 @@ leedcode刷题记录
         queue.append(root.left) if root.left else None
         queue.append(root.right) if root.right else None
         print(cur.val)
+        
+  def inorderTraversal(self, root: TreeNode):
+      '''迭代形式中序遍历'''
+      res = []
+      track = [root]
+      while track:
+          cur = track.pop()
+          if isinstance(cur, TreeNode):
+              track.extend([cur.right, cur.val, cur.left])
+          else:
+              res.append(cur.val)
+      return res
  ```
 #### 一些例题
 
