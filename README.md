@@ -94,7 +94,7 @@ leedcode刷题记录
 
 [leedcode39，40-组合总和](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/combinationSum.md)
 
-[leedcode39，37-解数独](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/solveSudoku.md)
+[leedcode37-解数独](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/solveSudoku.md)
 
 
 
