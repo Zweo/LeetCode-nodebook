@@ -52,7 +52,7 @@ leedcode刷题记录
 ###### 层次遍历
 [leedcode107-二叉树层次遍历](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/levelOrderBottom.md)
 
-[leedcode107-翻转二叉树](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/invertTree.md)
+[leedcode226-翻转二叉树](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/invertTree.md)
 
 
 
