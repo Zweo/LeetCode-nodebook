@@ -42,16 +42,17 @@ leedcode刷题记录
 #### 一些例题
 
 ###### 前序遍历
-[leedcode109-有序链表转平衡二叉树（前序遍历）](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/sortedListToBST.md)
+[leedcode109-有序链表转平衡二叉树](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/sortedListToBST.md)
 
 ###### 后序遍历
-[leedcode110-平衡二叉树（后序遍历）](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/isBalanced.md)
+[leedcode110-平衡二叉树](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/isBalanced.md)
 
-[leedcode111-二叉树最小深度（后序遍历）](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/minDepth.md)
+[leedcode111-二叉树最小深度](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/minDepth.md)
 
 ###### 层次遍历
-[leedcode107-二叉树层次遍历（层次遍历）](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/levelOrderBottom.md)
+[leedcode107-二叉树层次遍历](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/levelOrderBottom.md)
 
+[leedcode107-翻转二叉树](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/invertTree.md)
 
 
 
