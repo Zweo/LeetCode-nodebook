@@ -97,6 +97,10 @@ leedcode刷题记录
 
 [leedcode37-解数独](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/solveSudoku.md)
 
+[leedcode47-全排列](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/permuteUnique.md)
+
+
+
 ## 5.图论
 
 [leedcode685-冗余连接Ⅱ（困难）](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/findRedundantDirectedConnection.md)
