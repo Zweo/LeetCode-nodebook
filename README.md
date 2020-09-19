@@ -54,6 +54,9 @@ leedcode刷题记录
 
 [leedcode226-翻转二叉树](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/invertTree.md)
 
+[leedcode404-左叶子之和](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/sumOfLeftLeaves.md)
+
+
 
 
 ## 2.字符串问题
