@@ -49,6 +49,10 @@ leedcode刷题记录
 
 [leedcode111-二叉树最小深度](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/minDepth.md)
 
+[leedcode538-二叉搜索树转为累加树](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/convertBST.md)
+
+
+
 ###### 层次遍历
 [leedcode107-二叉树层次遍历](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/levelOrderBottom.md)
 
