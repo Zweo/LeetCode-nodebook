@@ -54,49 +54,55 @@ leedcode刷题记录
 #### 一些例题
 
 ###### 前序遍历
-[leedcode109-有序链表转平衡二叉树](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/sortedListToBST.md)
+[有序链表转平衡二叉树](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/sortedListToBST.md)
+
+[二叉搜索树中的插入](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/insertIntoBST.md)
+
+
 
 ###### 中序遍历
 
-[leedcode538-二叉搜索树转为累加树](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/convertBST.md)
+[二叉搜索树转为累加树](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/convertBST.md)
 
 
 ###### 后序遍历
-[leedcode110-平衡二叉树](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/isBalanced.md)
+[平衡二叉树](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/isBalanced.md)
 
-[leedcode111-二叉树最小深度](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/minDepth.md)
+[二叉树最小深度](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/minDepth.md)
 
 
 
 
 ###### 层次遍历
-[leedcode107-二叉树层次遍历](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/levelOrderBottom.md)
 
-[leedcode226-翻转二叉树](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/invertTree.md)
+[二叉树层次遍历](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/levelOrderBottom.md)
 
-[leedcode404-左叶子之和](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/sumOfLeftLeaves.md)
+[翻转二叉树](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/invertTree.md)
 
-[leedcode117-填充每个节点下一个右侧节点](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/connect.md)
+[左叶子之和](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/sumOfLeftLeaves.md)
+
+[填充每个节点下一个右侧节点](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/connect.md)
+
 
 
 
 
 ## 2.字符串问题
 
-[leedcode647-回文子串](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/countSubstrings.md)
+[回文子串](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/countSubstrings.md)
 
-[leedcode459-重复子串](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/repeatedSubstringPattern.md)
+[重复子串](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/repeatedSubstringPattern.md)
 
-[leedcode657-机器人能否返回原点](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/judgeCircle.md)
+[机器人能否返回原点](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/judgeCircle.md)
 
 
 
 ## 3.DFS
-[leedcode529-扫雷游戏](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/updateBoard.md)
+[扫雷游戏](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/updateBoard.md)
 
-[leedcode841-钥匙和房间](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/canVisitAllRooms.md)
+[钥匙和房间](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/canVisitAllRooms.md)
 
-[leedcode78-子集](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/subsets.md)
+[子集](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/subsets.md)
 
 
 
@@ -116,23 +122,23 @@ leedcode刷题记录
      return res
  ```
 
-[leedcode17-电话号码的字母组合](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/letterCombinations.md)
+[电话号码的字母组合](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/letterCombinations.md)
 
-[leedcode332-重新安排行程](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/findItinerary.md)
+[重新安排行程](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/findItinerary.md)
 
-[leedcode51-N皇后](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/solveNQueens.md)
+[N皇后](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/solveNQueens.md)
 
-[leedcode39，40-组合总和](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/combinationSum.md)
+[组合总和](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/combinationSum.md)
 
-[leedcode37-解数独](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/solveSudoku.md)
+[解数独](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/solveSudoku.md)
 
-[leedcode47-全排列](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/permuteUnique.md)
+[全排列](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/permuteUnique.md)
 
 
 
 ## 5.图论
 
-[leedcode685-冗余连接Ⅱ（困难）](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/findRedundantDirectedConnection.md)
+[冗余连接Ⅱ（困难）](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/findRedundantDirectedConnection.md)
 
 
 
