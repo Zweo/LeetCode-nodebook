@@ -64,6 +64,9 @@ leedcode刷题记录
 
 [二叉搜索树转为累加树](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/convertBST.md)
 
+[二叉搜索树的最小绝对差](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/getMinimumDifference.md)
+
+
 
 ###### 后序遍历
 [平衡二叉树](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/isBalanced.md)
