@@ -111,6 +111,9 @@ leedcode刷题记录
 [回文链表（简单）](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/isPalindrome.md)
 
 
+## 7.其他
+[有多少小于当前数字的数字](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/smallerNumbersThanCurrent.md)
+
 
 
 
