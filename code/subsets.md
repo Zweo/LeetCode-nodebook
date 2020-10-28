@@ -16,7 +16,7 @@
 
 ### 代码
 
-```python3
+```python
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
         res = []

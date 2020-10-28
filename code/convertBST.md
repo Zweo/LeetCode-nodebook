@@ -12,7 +12,7 @@
 
 ### 代码
 
-```python3
+```python
 class Solution:
     def convertBST(self, root: TreeNode) -> TreeNode:
         if not root:
