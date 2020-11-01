@@ -98,6 +98,8 @@ leedcode刷题记录
 
 [全排列](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/permuteUnique.md)
 
+[单词拆分II（困难）](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/wordBreak.md)
+
 
 
 ## 5.图论
