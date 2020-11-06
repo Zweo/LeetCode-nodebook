@@ -116,6 +116,7 @@ leedcode刷题记录
 ## 7.其他
 [有多少小于当前数字的数字](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/smallerNumbersThanCurrent.md)
 
+[根据有多少位数1排序](https://github.com/Zweo/LeetCode-nodebook/blob/master/code/sortByBits.py)
 
 
 
